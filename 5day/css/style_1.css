@@ -1,0 +1,28 @@
+body{
+	width: 715px;
+	height: 1000px;
+	margin: 0 auto;
+	border: 1px solid #777;
+	box-shadow:0px 0px 5px 5px #999;
+}
+.resume{
+	padding:20px 20px;
+
+}
+.basic{
+	padding: 3px 0px; 
+}
+.massage{
+	height: 60px;
+}
+.massage h3,
+.massage div{
+	float: left;
+}
+.massage div{
+	font-weight: 700;
+	margin: 20px 40px 15px 20px;
+}
+.capability div{
+	font-weight: 700;
+}
