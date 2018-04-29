@@ -1,0 +1,57 @@
+*{margin:0;
+	padding:0;
+}
+.resume{
+	width: 1200px;
+	height: 710px;
+	margin: 50px auto;
+	border: 1px solid #888;
+}
+.resume_1{
+	height: 100px;
+	background: #555;
+}
+.resume_1 h1{
+	float: left;
+}
+.basic{
+	height: 120px;
+	background: #999;
+	border: 1px solid #666;
+}
+
+.basic h2{
+	width: 150px;
+	height: 100px;
+	float: left;
+	padding: 10px 0px 0px 15px;
+}
+.massage{
+	background: #eee;
+	width: 1030px;
+	height: 120px;
+	
+	float: right;
+}
+.massage h3,
+.massage div{
+	float: left;
+
+}
+.massage div{
+	padding: 5px 35px 20px 20px;
+
+}
+.capability{
+	width: 1030px;
+	height: 120px;
+	float: right;
+	background: #eee;
+}
+.capability h3,
+.capability div{
+	float: left;
+}
+.capability div{
+	padding:5px 35px 20px 20px; 
+}
