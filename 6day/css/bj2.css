@@ -1,0 +1,48 @@
+/*float方法*/
+/*.fl{
+	width: 500px;
+	float: left;
+	background: #777;
+	height: 1000px;
+}
+.fr{
+	overflow: hidden;
+	background: #222;
+	height: 1000px;
+}*/
+
+
+/*position方法*/
+/*body{
+	width: 1960px;
+	height: 1000px;
+	position: relative;
+}
+.fl{
+	background: #777;
+	height: 100%;
+	width: 500px;
+	position: absolute;
+}
+.fr{
+	background: #222;
+	height: 100%;
+	padding-left: 500px;
+}*/
+
+/*flexbox方法*/
+body{
+	height: 1000px;
+	display: flex;
+}
+.fl{
+	width: 500px;
+	height: 100%;
+	flex: none;
+	background: #777;
+}
+.fr{
+	height: 100%;
+	flex: 1;
+	background: #222;
+}

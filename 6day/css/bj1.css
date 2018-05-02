@@ -1,0 +1,54 @@
+
+/*float方法*/
+/*body{
+	width: 1920px;
+	height: 980px;
+}*/
+/*.fl{
+	width: 30%;
+	height: 100%;
+	float: left;
+	background: #777;
+}
+.fr{
+	width: 70%;
+	height: 100%;
+	float: right;
+	background: #222;
+}*/
+
+/*position方法*/
+
+/*.fl{
+	width: 30%;
+	height:100%;
+	background:#777; 
+	position: absolute;
+}
+.fr{
+	width: 70%;
+	height: 100%;
+	background: #222;
+	position: fixed;
+	top: 0;
+	right: 0; 
+}*/
+
+
+/*flexbox方法*/
+body{
+	width: 1920px;
+	height: 980px;
+	display: flex;
+}
+.fl{
+	background: #777;
+	height: 100%;
+	width: 30%;
+}
+.fr{
+	height: 100%;
+	width: 70%;
+	background: #222;
+	justify-content: flex-end;
+}

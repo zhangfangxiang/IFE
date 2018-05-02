@@ -1,0 +1,16 @@
+body{
+	height: 1000px;
+	display: flex;
+}
+.fl{
+	width: 500px;
+	height: 100%;
+	flex: 1;
+	background: #222;
+}
+.fr{
+	width: 1000px;
+	height: 100%;
+	flex: none;
+	background: #777;
+}

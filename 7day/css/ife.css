@@ -1,0 +1,123 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.head{
+	width: 100%;
+	height: 50px;
+	background: #222;
+
+}
+.logo a{
+	text-decoration: none;
+	color: #eee;
+}
+.logo{
+	width: 960px;
+	margin: 0 auto;
+}
+.logo_1{
+	font-size: 20px;
+	position:absolute;
+	top:12px;
+}
+.git{
+	position: relative;
+}
+.git a{
+	float: right;
+	padding: 3px 8px 
+}
+.banner{
+	width: 100%;
+	height: 300px;
+	background: #66BB33;
+}
+.count{
+	width: 620px;
+	height: 50px;
+	margin: 0 auto;
+	float: right;
+	margin-top: 250px;
+}
+.count div{
+	width: 20px;
+	height: 30px;
+	border: 1px solid #222;
+	float: left;
+
+}
+.c1, .c2, .c3, .c4{
+	margin: 8px 5px;
+	background: #B2D399;
+}
+.c1:hover, .c2:hover, .c3:hover, .c4:hover{
+	background: #eee;
+	height: 40px;
+	width: 20px;
+}
+.nav{
+	height: 70px;
+	width: 100%;
+	border-bottom: 1px solid #999;
+}
+.nav_1{
+	width: 960px;
+	height: 50px;
+	margin: 0 auto;
+	
+}
+.nav_1 div{
+	float: left;
+	width: 100px;
+	height: 50px;
+	border-radius:20px 20px 0 0;
+	border: 1px solid #999;
+	margin: 19px 20px 20px 0;
+	background: #EEE;
+	 text-align: center;
+	 line-height: 50px;
+}
+.content{
+	width: 960px;
+	height: 480px;
+
+	margin: 0 auto;
+	display: flex;
+	clear:both ;
+	flex-wrap: wrap;
+
+}
+.content1, .content2{
+	width: 35%;
+	height: 150px;
+	border: 1px solid #999;
+	margin: 10px 7px 7px 0;
+}
+.content3{
+	width: 27%;
+	height: 150px;
+	border: 1px solid #999;
+	margin: 10px 7px 7px 0;
+}
+.content4, .content5, .content6, .content7{
+	width: 23.7%;
+	height:150px;
+	border: 1px solid #999;
+	margin: 0px 10px 10px 0;
+}
+.content8, .content9, .content10{
+	width: 32%;
+	height: 150px;
+	border: 1px solid #999;
+	margin: 0px 10px 0 0;
+}
+.foot{
+	width: 100%;
+	height: 120px;
+	background: #555;
+	float: left;
+	 text-align: center;
+	 padding-top: 10px;
+	 margin-top:10px;
+}
