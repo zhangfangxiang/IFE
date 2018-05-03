@@ -1,0 +1,183 @@
+body{
+	margin:0;
+	padding:0;
+	width: 1440px;
+	margin: 0 auto;
+}
+.head{
+	width: 1440px;
+	height: 1640px;
+	
+}
+.head_1{
+	width: 1440px;
+	height: 890px;
+	background-image: url(../images/前端学院设计图_02.png);
+}
+.head_1 span{
+	width: 1440px;
+	height: 230px;
+	float: left;
+	text-align: center;
+	line-height: 460px;
+	font-size: 45px;
+	color: #eee;
+}
+.head_1 p{
+	width: 800px;
+	height: 100px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 30px;
+	margin: 0 auto;
+	padding-top: 350px;
+	color: #888;
+}
+.case{
+	width: 880px;
+	height: 230px;
+	margin: 0 auto;
+	border: 0.5px solid #888;
+	margin-top: 55px;
+}
+.case .line{
+	width: 230px;
+	height: 50px;
+	margin: 0 auto;
+
+}
+.line div{
+	padding-top: 30px;
+	text-align: center;
+	line-height: 10px;
+	
+}
+.line_1{
+	color: #eee;
+}
+.line_2{
+	color: #888;
+}
+.name{
+	BACKGROUND-COLOR: transparent;
+	border: 0.5px solid #888;
+	width: 240px;
+	height: 50px;
+	margin: 0 auto;
+	padding-left: 20px;
+	margin-left: 30px;
+}
+.eng{
+	width: 830px;
+	height: 100px;
+	margin: 0 auto;
+	padding-top: 80px;
+}
+.eng a{
+	width: 80px;
+	height: 120px;
+	padding-left: 40px;
+	position: relative;
+	top:17px;
+}
+.head_2{
+	width: 1440px;
+	height: 750px;
+	border: 1px solid #888;
+}
+.nav{
+	width: 1440px;
+	height: 180px;
+	text-align: center;
+	line-height: 10px;
+	margin-top:90px;
+}
+.nav_2{
+	width: 600px;
+	height: 80px;
+	font-size: 35px;
+	line-height: 45px;
+	margin: 0 auto;
+	padding-top: 35px;
+}
+.mobile{
+	width: 930px;
+	height: 480px;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap
+}
+.acc, .ful, .cus, .mob{
+	float: right;
+	width: 300px;
+	margin: 0  35px ;
+}
+.mobile_1, 
+.mobile_2, 
+.mobile_3, 
+.mobile_4 {
+	padding: 35px 15px 10px 30px;
+}
+
+.acc p ,  
+.ful p ,  
+.cus p ,  
+.mob p  {
+	font-weight: 800;
+	-webkit-margin-before: 0em; 
+	-webkit-margin-after: 0em;
+	margin-bottom: 10px;
+}
+.acc div ,  
+.ful div ,  
+.cus div ,  
+.mob div  {
+	line-height: 25px;
+	font-size: 12px;
+	color: #888;
+}
+
+.content{
+	width: 1440px;
+	height: 1500px;
+
+}
+.content_1{
+	width: 1440px;
+	height: 780px;
+	background-image: url(../images/前端学院设计图_21.png);
+}
+.supp{
+	width: 520px;
+	height: 460px;
+	padding: 100px 150px;
+	margin: 10px;
+	float: left;
+}
+.supp p{
+	font-size: 35px;
+	color: #eee;
+}
+.supp span{
+	font-size: 19px;
+	color: #888;
+}
+.supp a{
+	float: left;
+	padding-top: 100px;
+	margin-right: 20px;
+}
+.content_1 .ipad{
+	position: relative;
+
+}
+.content_1 .ipad .ipad_1{
+	position: absolute;
+	right: 0;
+	top:90px;
+}
+.content_1 .ipad .ipad_2{
+	position: absolute;
+	right: 0;
+	top:120px;
+}
