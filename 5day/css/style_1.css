@@ -26,3 +26,11 @@ body{
 .capability div{
 	font-weight: 700;
 }
+#resume{
+	float: right;
+	margin-top: 18px;
+}
+.massage p{
+	float: right;
+	padding-right: 30px;
+}
