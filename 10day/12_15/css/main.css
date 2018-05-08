@@ -1,0 +1,313 @@
+body>*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 1445px;
+	height: 945px;
+	margin: 0 auto;
+}
+.index{
+	width: 1445px;
+	height: 945px;
+	border: 1px solid #c0c0c0;
+	overflow:hidden;
+}
+.nav{
+	padding-left: 10px;
+
+}
+.col-md-4{
+	background: #1D2531;
+	height: 945px;
+	position: relative;
+}
+.col-md-8{
+	background: #222C3C;
+	height: 945px;
+	padding: 30px 25px;
+}
+.box p{
+	color: #465263;
+	font-weight: 700;
+	float: left;
+}
+.box img{
+	float: right;
+}
+.box_1{
+	width: 175px;
+	height: 230px;
+	float: left;
+	border-bottom:1px solid #555;
+}
+.box_1 a, 
+.box_4 a {
+	color: #eee;
+}
+.badge{
+	float: right;
+}
+.set{
+	position: absolute;
+	bottom: 20px;
+	left: 30px;
+	margin: 0 auto;
+}
+.box_3 p{
+	color: #465263;
+	font-weight: 700;
+	float: left;
+	padding-top: 30px;
+}
+.box_3 img{
+	float: right;
+	padding-top: 30px;
+}
+.box_4{
+	width: 175px;
+	height: 200px;
+	float: left;
+	border-bottom:1px solid #555;
+}
+.box_6 a{
+	color: #eee;
+}
+.box_5 p{
+	color: #465263;
+	font-weight: 700;
+	float: left;
+	padding-top: 30px;
+}
+.box_5 img{
+	float: right;
+	padding-top: 30px;
+}
+.box_6{
+	width: 175px;
+	height: 200px;
+	float: left;
+}
+.box_6 a{
+	color: #eee;
+}
+.box_6 div{
+	float: right;
+}
+.monthly_1, .monthly{
+	height: 915px;
+	position: relative;
+}
+.monthly, .monthly_1{
+	position: absolute;
+	top:915px;
+	left: 10px;
+}
+.monthly p{
+	margin-top:-30px; 
+	color: #eee;
+}
+.col-md-9{
+	/*background: #999;*/
+}
+.nav_2{
+	height: 80px;
+	border-bottom:1px solid #C0C0C0;
+}
+.navbad{
+	font-size: 30px;
+	float: left;
+	padding-top: 15px;
+	margin-left: 30px;
+}
+.state{
+	width: 230px;
+	height: 80px;
+	float: right;
+	display:inline-block ; 
+	padding-top: 15px;
+}
+.state div{
+	width: 60px;
+	height: 80px;
+	float: left;
+}
+.drop{
+	margin-left:50px; 
+	padding-top: 15px;
+}
+.col-md-9, .col-md-3, .col-md-5, .col-md-7{
+	padding: 0 !important;
+}
+.input{
+	width: 450px;
+	height: 65px;
+	padding: 20px 50px;
+	border: 1px solid #C0C0C0;
+	position: relative;
+}
+.input input{
+	width: 320px;
+	border-radius:3px;
+}
+.input img{
+	position: absolute;
+	left: 350px;
+	top:25px;
+}
+.berry{
+	border: 1px solid #c0c0c0;
+	height: 65px;
+	padding-top: 20px;
+	position: relative;
+}
+.berry img{
+	margin-left: 10px;
+
+}
+.berry p {
+	font-size: 20px;
+	float: left;
+	padding-left: 15px;
+}
+.btn-group{
+	position: absolute;
+	right: 25px;
+}
+.btn-group span{
+	font-size: 15px;
+	font-weight: 600;
+	padding-left: 15px;
+}
+.table_1, .table_2, .table_3, .table_4, .table_5, .table_6{
+	width: 450px;
+	height: 150px;
+	border: 1px solid #c0c0c0;
+	padding-left: 20px;
+	padding-top: 15px;
+	position: relative;
+}
+.table_1 p1, .table_2 p1, .table_3 p1, .table_4 p1, .table_5 p1, .table_6 p1{
+	font-weight: 600;
+	position: absolute;
+	left: 80px;
+	text-overflow:ellipsis;     
+}
+.table_1 p2, .table_2 p2, .table_3 p2, .table_4 p2, .table_5 p2, .table_6 p2{
+	color: #c0c0c0;
+	padding-left: 10px;
+}
+.table_1 span, .table_2 span, .table_3 span, .table_4 span, .table_5 span, .table_6 span{
+	float: right;
+	padding-right: 20px;
+}
+.table_1 div, .table_2 div, .table_3 div, .table_4 div, .table_5 div, .table_6 div{
+	padding-top: 20px;
+	color: #999;
+}
+.berry_1{
+	width: 635px;
+	height: 360px;
+	border: 1px solid #999;
+	padding-left: 20px;
+	padding-top: 30px;
+	position: relative;
+}
+.berry_2 p1{
+	font-weight: 600;
+	position: absolute;
+	left: 80px;
+	top:35px;
+	text-overflow:ellipsis; 
+}
+.berry_2 p{
+	color: #999;
+	font-weight: 600;
+	position: absolute;
+	left: 180px;
+	top:35px;
+	text-overflow:ellipsis; 
+}
+.berry_2 div{
+	width: 550px;
+	height: 150px;
+	float: right;
+	color: #999;
+}
+.berry_3 {
+	padding-top: 110px;
+}
+.berry_3 p1{
+	font-weight: 600;
+	position: absolute;
+	left: 80px;
+	top:190px;
+	text-overflow:ellipsis;
+}
+.berry_3 p{
+	color: #999;
+	font-weight: 600;
+	position: absolute;
+	left: 180px;
+	top:190px;
+	text-overflow:ellipsis; 
+}
+.berry_3 div{
+	width: 550px;
+	height: 150px;
+	float: right;
+	color: #999;
+}
+
+
+.berry_4{
+	padding-top: 150px
+}
+.berry_5 p1{
+	font-weight: 600;
+	position: absolute;
+	left: 80px;
+	top:390px;
+	text-overflow:ellipsis; 
+}
+.berry_5 p{
+	color: #999;
+	font-weight: 600;
+	position: absolute;
+	left: 180px;
+	top:390px;
+	text-overflow:ellipsis; 
+}
+.berry_5 div{
+	width: 550px;
+	height: 150px; 
+	float: right;
+	color: #999;
+}
+.berry_6 {
+	padding-top: 110px;
+}
+.berry_6 p1{
+	font-weight: 600;
+	position: absolute;
+	left: 80px;
+	top:550px;
+	text-overflow:ellipsis;
+}
+.berry_6 p{
+	color: #999;
+	font-weight: 600;
+	position: absolute;
+	left: 180px;
+	top:550px;
+	text-overflow:ellipsis; 
+}
+.berry_6 div{
+	width: 550px;
+	height: 150px;
+	float: right;
+	color: #999;
+}
+.container input{
+	width: 560px;
+}
